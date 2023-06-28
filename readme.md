@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Mobile and Web Fullstack Developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
@@ -10,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Javascript
-- 🌐 &nbsp; React | Django | flutter | HTML | CSS | JavaScript | Tailwind 
+- 💻 &nbsp; Python | Dart | Javascript | PHP
+- 🌐 &nbsp; React | Django | Flutter | HTML | CSS | JavaScript | Tailwind 
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git
 
