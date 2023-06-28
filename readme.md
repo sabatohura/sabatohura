@@ -13,6 +13,7 @@
 - 🌐 &nbsp; React | Django | Flutter | HTML | CSS | JavaScript | Tailwind | Wordpress
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git
+<br>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
