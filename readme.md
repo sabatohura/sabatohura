@@ -26,7 +26,6 @@
 <a src="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://www.djangoproject.com/"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-<a src="https://www.postgresql.org/"><img src="https://img.icons8.com/color/48/000000/postgre.png"/></a>
 
 <br>
 
