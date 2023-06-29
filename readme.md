@@ -9,8 +9,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Javascript | PHP
-- 🌐 &nbsp; React | Django | Flutter | HTML | CSS | JavaScript | Tailwind | Wordpress
+- 💻 &nbsp; Python | Dart | Javascript 
+- 🌐 &nbsp; React | Django | Flutter | Tailwind | Wordpress
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git
 
