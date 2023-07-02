@@ -1,21 +1,12 @@
-<iframe src="https://sabatodev.com/">
-  
-</iframe>
-
-
 <h2> Hey there! I'm Sabato. </h2>
-
 <h3> 👨🏻‍💻 About Me </h3>
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Mobile and Web Fullstack Developer.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.
 - ✍️ &nbsp; Playing Games and trying out the latest design trends as hobbies/side hustles.
-
 <h3>🛠 Tech Stack</h3>
-
 - 💻 &nbsp; Python | Dart | Javascript 
-- 🌐 &nbsp; React | Django | Flutter | Tailwind | Wordpress
+- 🌐 &nbsp; React | Django | Flutter | Tailwind | WordPress
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Git
 
