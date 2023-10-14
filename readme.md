@@ -5,9 +5,9 @@
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence.<br>
 - ✍️ &nbsp; Playing Games and trying out the latest design trends as hobbies/side hustles.<br>
 <h3>🛠 Tech Stack</h3><br>
-- 💻 &nbsp; Python | Dart | Javascript <br>
+- 💻 &nbsp; Python | Java | Dart | Javascript <br>
 - 🌐 &nbsp; React | Django | Flutter | Tailwind | WordPress<br>
-- 🛢 &nbsp; MySQL | Firebase | PostgreSQL <br>
+- 🛢 &nbsp; MySQL | Firebase | PostgreSQL | MongoDb <br>
 - 🔧 &nbsp; Visual Studio code | Git<br>
 <br>
 ## 👨🏻‍💻 Currently working on:<br>
