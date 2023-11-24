@@ -1,8 +1,8 @@
 <h2> Hey there! I'm Sabato. </h2>
 <h3> 👨🏻‍💻 About Me </h3>
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.<br>
-- 💼 &nbsp; Mobile and Web Fullstack Developer.<br>
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence.<br>
+- 💼 &nbsp; Mobile and Web Fullstack Software engineer.<br>
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence and Software Engineering.<br>
 - ✍️ &nbsp; Playing Games and trying out the latest design trends as hobbies/side hustles.<br>
 <h3>🛠 Tech Stack</h3><br>
 - 💻 &nbsp; Python | Java | Dart | Javascript <br>
