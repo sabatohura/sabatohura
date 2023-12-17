@@ -10,7 +10,7 @@
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL | MongoDb <br>
 - 🔧 &nbsp; Visual Studio code | Git<br>
 <br>
-## 👨🏻‍💻 Currently working on:<br>
+## 👨🏻‍💻 Currently working with:<br>
 
 <a src="https://flutter.dev/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
