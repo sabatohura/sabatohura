@@ -5,8 +5,8 @@
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence and Software Engineering.<br>
 - ✍️ &nbsp; Playing Games and trying out the latest design trends as hobbies/side hustles.<br>
 <h3>🛠 Tech Stack</h3><br>
-- 💻 &nbsp; Python | Java | Dart | Javascript <br>
-- 🌐 &nbsp; React | Django | Flutter | Tailwind | WordPress<br>
+- 💻 &nbsp; Python | C++ | Dart | Javascript | TypeScript  <br>
+- 🌐 &nbsp; React | NextJs | Django | Flutter | Tailwind | WordPress<br>
 - 🛢 &nbsp; MySQL | Firebase | PostgreSQL | MongoDb <br>
 - 🔧 &nbsp; Visual Studio code | Git<br>
 <br>
@@ -14,6 +14,7 @@
 
 <a src="https://flutter.dev/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
 <a src="https://tailwindcss.com/"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/></a>
